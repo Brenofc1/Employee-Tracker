@@ -11,7 +11,9 @@ https://app.screencastify.com/manage/videos/1UkuYItegRomdvaXluvZ
   
 Gif showing the functionality of the application:
   
-![Employee Tracker](./assets/employee-tracker.gif) 
+![Employee Tracker Gif video record](./assets/employee-tracker.gif) 
+
+![Employee Tracker Video Record](./assets/Module-12-SQL-Challenge-Employee-Tracker.webm)
   
 ## User Story
   
